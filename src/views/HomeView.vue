@@ -147,7 +147,7 @@ const sortType = "asc";
     <img class="w-80" src="@/assets/galaxie-min.png"/>
   </div>
   <div class="text-slate-400 italic text-xs"> Note: Ce site n'est pas affilié à Galaxie. Il a été developpé pour faciliter la consultation des postes d'enseigant-e-s chercheurs ouverts au concours. 
-    <a class="text-teal-700 not-italic" href="www.rubidiumweb.fr">@RubidiumWeb </a>
+    <a class="text-teal-700 not-italic" href="www.rubidiumweb.fr">@RubidiumWeb. </a>
   </div>
 
   <h2 class="p-3 font-bold text-xl text-center"> {{ prepublie ? "Postes Pré-publiés" : "Postes Publiés" }} 
